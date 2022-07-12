@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.text{
+   display: flex;
+}
+
+.all{
+   width: 60%;
+   margin-left: 40%;
+}
+
+.pic{
+   width: 40%;
+}
+
+.logo{
+   width: 50%;
+   margin-top: 50%;
+   margin-left: 50%;
+}
+p{
+   font-size: 60px;
+}
+
+h2{
+   color: dodgerblue;
+   font-size: 80px;
+   margin-left: 25%;
+}
+
+h1{
+   color: tomato;
+   font-size: 80px;
+   margin-left: 25%;
+}

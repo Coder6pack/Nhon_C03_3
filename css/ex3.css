@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+    box-sizing: border-box;
+}
+
+.dadav{
+   width: 200px;
+   height: 200px;
+   border: 10px solid white;
+   transform: translate(100px,-140px);
+}
+
+.avarta{
+   width: 100%;
+}
+
+h1{
+   margin-left: 350px;
+   margin-top: 250px;
+   display: inline-block;
+}
+
+.cover{
+   background-image: url("cover.jpg");
+   height: 300px;
+   color: white ;
+}
